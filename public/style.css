@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Mono';
+    background-color: #efd9da;
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 500px;
+}
+
+h1 {
+    color: #3c447f;
+}
+
+a {
+    color: #b4435e;
+}
